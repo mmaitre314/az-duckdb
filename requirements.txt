@@ -1,0 +1,4 @@
+duckdb==1.0.0
+notebook==7.2.1
+pandas==2.2.2
+pyprql==0.12.1
