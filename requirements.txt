@@ -1,4 +1,7 @@
+azure-identity==1.17.1
+azure-storage-blob==12.20.0
 duckdb==1.0.0
+jupysql==0.10.11
 notebook==7.2.1
 pandas==2.2.2
 pyprql==0.12.1
